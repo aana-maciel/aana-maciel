@@ -7,7 +7,7 @@ Sou a Ana Clara, desenvolvedora de front-end, muito prazer!
 
   <div style= display:"inline_block"><br>
     <a href="https://github.com/maciel-ana">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aana-maciel&theme=dracula"/>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aana-maciel&theme=dracula"/><br><br>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aana-maciel&layout=compact&langs_count=16&theme=dracula"/>
       <br><br>
           <img align="center" alt="Ana-Js" height="30" width="40"     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
